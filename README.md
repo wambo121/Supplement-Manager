@@ -59,6 +59,7 @@ wambo121/supplement-manager
 
 ## 🚀 Planned Features
 
+- Make the main view the overwiew of the week
 - Settings panel to choose time format
 - Mobile compatibility
 - Integration with popular plugin such as calendar
